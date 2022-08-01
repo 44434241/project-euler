@@ -11,3 +11,5 @@ def is_prime(num):
 			return False
 	_primes.append(i)
 	return False
+
+# (that doesnt make sense i have no idea what my intention with it was but i'm sure ill figure it out)
